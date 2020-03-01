@@ -1,0 +1,33 @@
+{
+  "name": "swagger-to-markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diberry/swagger-to-markdown.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diberry/swagger-to-markdown/issues"
+  },
+  "homepage": "https://github.com/diberry/swagger-to-markdown#readme",
+  "dependencies": {
+    "@types/underscore": "^1.9.4",
+    "next": "^9.2.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "underscore": "^1.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.7",
+    "@types/react": "^16.9.23",
+    "typescript": "^3.8.3"
+  }
+}
