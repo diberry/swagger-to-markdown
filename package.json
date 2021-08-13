@@ -20,7 +20,7 @@
   "homepage": "https://github.com/diberry/swagger-to-markdown#readme",
   "dependencies": {
     "@types/underscore": "^1.9.4",
-    "next": "^9.2.2",
+    "next": "^11.1.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "underscore": "^1.9.2"
